@@ -1,1 +1,3 @@
-We need more changes with actual diffs to do a realistic squash
+We need more changes with actual diffs to do a realistic squash.
+
+And even more changes
